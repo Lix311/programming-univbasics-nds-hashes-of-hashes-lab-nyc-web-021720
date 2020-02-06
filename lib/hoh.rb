@@ -49,5 +49,5 @@ biological_life = {
     :sub_category => "Class"}
 
 }
-}
+
 end
