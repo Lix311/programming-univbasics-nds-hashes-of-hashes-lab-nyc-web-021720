@@ -46,7 +46,7 @@ biological_life = {
     :Phylum => {
       :Class => {}
     }
-  
+  }
       
 }
 end
