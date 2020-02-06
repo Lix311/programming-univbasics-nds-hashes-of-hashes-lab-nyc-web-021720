@@ -46,6 +46,7 @@ biological_life = {
   :sub_category => {
     :label => "Phylum",
     :sub_category => "Class"}
-  
+}
+}
 }
 end
