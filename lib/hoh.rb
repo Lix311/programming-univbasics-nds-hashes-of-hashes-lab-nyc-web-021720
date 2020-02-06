@@ -45,14 +45,7 @@ biological_life = {
   :Kingdom => {
     :Phylum => {
       :Class => {}
-    },
-  :Order => {},
-  :Family => {
-    :Genus => {}
-  },
-  :Species => {}
-    
-  }
+    }
   
       
 }
